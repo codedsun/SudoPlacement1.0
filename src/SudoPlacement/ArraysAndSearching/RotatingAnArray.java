@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * @author : codedsun
  * Created on 21/08/18
+ * <a href="https://practice.geeksforgeeks.org/problems/reversal-algorithm/0/?track=SP-Arrays%20and%20Searching" />
  */
 public class RotatingAnArray {
 
