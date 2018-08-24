@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a1aa3feb-c2e2-4c4c-a74f-ba2082170fa5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/LeadersInAnArray.java" afterPath="$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/LeadersInAnArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeadersInAnArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/LeadersInAnArray.java">
+      <file leaf-file-name="ReverseAnArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/ReverseAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="313">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/RotatingAnArray.java" />
         <option value="$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/LeadersInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/ReverseAnArray.java" />
       </list>
     </option>
   </component>
@@ -181,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeadersInAnArray">
+  <component name="RunManager" selected="Application.ReverseAnArray">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -215,6 +215,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="SudoPlacement.ArraysAndSearching.LeadersInAnArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SudoPlacement1.0" />
+      <envs />
+    </configuration>
+    <configuration name="ReverseAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SudoPlacement.ArraysAndSearching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SudoPlacement.ArraysAndSearching.ReverseAnArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -319,16 +338,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.ImmediateSmallerElement" />
       <item index="1" class="java.lang.String" itemvalue="Application.RotatingAnArray" />
       <item index="2" class="java.lang.String" itemvalue="Application.LeadersInAnArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReverseAnArray" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.LeadersInAnArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RotatingAnArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ImmediateSmallerElement" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseAnArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LeadersInAnArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RotatingAnArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ImmediateSmallerElement" />
       </list>
     </recent_temporary>
   </component>
@@ -498,8 +519,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/LeadersInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="526">
           <caret line="36" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SudoPlacement/ArraysAndSearching/ReverseAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
